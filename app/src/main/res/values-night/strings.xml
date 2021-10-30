@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="flow_extension_with_repeatonlifecycle">Flow Extension with repeatOnLifecycle</string>
+</resources>

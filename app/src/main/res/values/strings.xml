@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FlowApp</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="flow_extension_with_repeatonlifecycle">Flow Extension with repeatOnLifecycle</string>
+</resources>
